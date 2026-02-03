@@ -6,7 +6,6 @@
 
 <img src="assets/profile.png" alt="Foto de Abdías Campos" width="100%">
 
-
 ---
 
 ## 🧑‍💻 Sobre mí
@@ -58,46 +57,40 @@
 <td width="50%">
 <h3 align="center">Sistema de Gestión de Recordatorios</h3>
 <div align="center">
-
+<img src="assets/1.JPEG" alt="Preview Recordatorios" width="100%" style="border-radius:10px;">
 <p>
 Sistema web para la gestión de servicios y clientes, con automatización de recordatorios.
 </p>
-
 <p>
 <strong>Tecnologías:</strong><br>
 Laravel · AdminLTE · MySQL · AJAX · Tailwind
 </p>
-
 <ul align="left">
 <li>Backend completo con Laravel</li>
 <li>Recordatorios automáticos por correo (Gmail SMTP)</li>
 <li>Integración de API de WhatsApp</li>
 <li>Lógica de servicios y notificaciones programadas</li>
 </ul>
-
 </div>
 </td>
 
 <td width="50%">
 <h3 align="center">Sistema de Abastecimiento Alimentario</h3>
 <div align="center">
-
+<img src="assets/2.JPEG" alt="Preview Abastecimiento" width="100%" style="border-radius:10px;">
 <p>
 Sistema académico para el control del abastecimiento y distribución alimentaria.
 </p>
-
 <p>
 <strong>Tecnologías:</strong><br>
 Laravel · MySQL
 </p>
-
 <ul align="left">
 <li>Rol: Backend Developer / Analista</li>
 <li>Modelado de base de datos</li>
 <li>Desarrollo de la lógica del sistema</li>
 <li>Análisis de requerimientos</li>
 </ul>
-
 </div>
 </td>
 </tr>
@@ -110,44 +103,38 @@ Laravel · MySQL
 <td width="50%">
 <h3 align="center">Calculadora de Precios</h3>
 <div align="center">
-
+<img src="assets/calculadora-precios.png" alt="Preview Calculadora" width="100%" style="border-radius:10px;">
 <p>
 Herramienta web para el cálculo automático de precios de trabajos en acrílico.
 </p>
-
 <p>
 <strong>Tecnologías:</strong><br>
 HTML · CSS · JavaScript
 </p>
-
 <ul align="left">
 <li>Automatización del proceso de cotización</li>
 <li>Lógica de precios en frontend</li>
 <li>Solución usada por un negocio real</li>
 </ul>
-
 </div>
 </td>
 
 <td width="50%">
 <h3 align="center">Proyecto Todoclick</h3>
 <div align="center">
-
+<img src="assets/todoclick.png" alt="Preview Todoclick" width="100%" style="border-radius:10px;">
 <p>
 Proyecto colaborativo para el desarrollo de una plataforma web.
 </p>
-
 <p>
 <strong>Tecnologías:</strong><br>
 Laravel · MySQL
 </p>
-
 <ul align="left">
 <li>Desarrollo completo del backend</li>
 <li>Diseño de arquitectura del sistema</li>
 <li>Implementación de la lógica principal</li>
 </ul>
-
 </div>
 </td>
 </tr>

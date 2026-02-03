@@ -4,7 +4,8 @@
   <p align="center">Laravel · Django · APIs · Bases de Datos</p>
 </div>
 
-<img src="https://i.imgur.com/Wskj8cn.jpeg" alt="banner backend">
+<img src="assets/profile.png" alt="Foto de Abdías Campos" width="100%">
+
 
 ---
 

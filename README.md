@@ -103,7 +103,6 @@ Laravel · MySQL
 <td width="50%">
 <h3 align="center">Calculadora de Precios</h3>
 <div align="center">
-<img src="assets/calculadora-precios.png" alt="Preview Calculadora" width="100%" style="border-radius:10px;">
 <p>
 Herramienta web para el cálculo automático de precios de trabajos en acrílico.
 </p>
@@ -122,7 +121,7 @@ HTML · CSS · JavaScript
 <td width="50%">
 <h3 align="center">Proyecto Todoclick</h3>
 <div align="center">
-<img src="assets/todoclick.png" alt="Preview Todoclick" width="100%" style="border-radius:10px;">
+
 <p>
 Proyecto colaborativo para el desarrollo de una plataforma web.
 </p>

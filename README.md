@@ -154,4 +154,22 @@ Laravel · MySQL
 
 ---
 
-## 📌 Qué tipo de problemas s
+## 📌 Qué tipo de problemas sé resolver
+
+- Sistemas de gestión para negocios
+- Automatización de procesos
+- Integración de APIs
+- Backend para aplicaciones web
+- Diseño y modelado de bases de datos
+
+---
+
+## 📫 Contacto
+
+- 📧 Email: tucorreo@email.com
+- 💼 LinkedIn: (si tienes)
+- 💻 GitHub: https://github.com/tuusuario
+
+---
+
+⭐ Siempre interesado en aprender, mejorar y formar parte de equipos que desarrollen soluciones reales.

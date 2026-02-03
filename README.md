@@ -57,7 +57,7 @@
 <td width="50%">
 <h3 align="center">Sistema de Gestión de Recordatorios</h3>
 <div align="center">
-<img src="img/1.JPEG" alt="Preview Recordatorios" width="100%" style="border-radius:10px;">
+<img src="img/1.jpeg" alt="Preview Recordatorios" width="100%" style="border-radius:10px;">
 <p>
 Sistema web para la gestión de servicios y clientes, con automatización de recordatorios.
 </p>
@@ -77,7 +77,7 @@ Laravel · AdminLTE · MySQL · AJAX · Tailwind
 <td width="50%">
 <h3 align="center">Sistema de Abastecimiento Alimentario</h3>
 <div align="center">
-<img src="img/2.JPEG" alt="Preview Abastecimiento" width="100%" style="border-radius:10px;">
+<img src="img/2.jpeg" alt="Preview Abastecimiento" width="100%" style="border-radius:10px;">
 <p>
 Sistema académico para el control del abastecimiento y distribución alimentaria.
 </p>

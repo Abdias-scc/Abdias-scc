@@ -167,9 +167,7 @@ Laravel · MySQL
 
 ## 📫 Contacto
 
-- 📧 Email: tucorreo@email.com
-- 💼 LinkedIn: (si tienes)
-- 💻 GitHub: https://github.com/tuusuario
+- 📧 Email: abdiascampos18@gmail.com
 
 ---
 
